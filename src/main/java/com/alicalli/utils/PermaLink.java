@@ -1,5 +1,5 @@
 package com.alicalli.utils;
 
 public class PermaLink {
-    //GİTHUB:
+    //GİTHUB: https://github.com/aliicalli/SpringFramework
 }
